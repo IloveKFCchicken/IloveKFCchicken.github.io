@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_webpack_project=self.webpackChunkmy_webpack_project||[]).push([[967],{967:(e,t,c)=>{c.r(t),c.d(t,{default:()=>a});var n=c(294);function a(){return n.createElement("main",{style:{padding:"1rem 0"}},n.createElement("h2",null,"Invoices"))}}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_webpack_project=self.webpackChunkmy_webpack_project||[]).push([[997],{997:(e,t,n)=>{n.r(t),n.d(t,{default:()=>c});var a=n(294);function c(){return a.createElement("main",{style:{padding:"1rem 0"}},a.createElement("h2",null,"Expenses"))}}}]);
