@@ -18,9 +18,12 @@ const config = {
     open: true,
     host: "localhost",
   },
+  resolve: {
+    extensions: ['.js', '.json', 'jsx'],
+  },
   plugins: [
     new HtmlWebpackPlugin({
-      template: "index.html",
+      template: "public/index.html",
     }),
 
     new MiniCssExtractPlugin(),
